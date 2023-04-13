@@ -21,6 +21,11 @@ export default defineUserConfig({
     repoLabel: 'Github',
     lastUpdated: false,   // 禁用显示更新时间
     contributors: false,   // 禁用显示贡献者
+    editLinkText: '在 GitHub 上编辑此页',
+    docsRepo: '1099216627/interview-handbook',
+    docsBranch: 'main',
+    docsDir: 'docs',
+    editLinkPattern: ':repo/edit/:branch/:path',
   }),
   plugins: [
     backToTopPlugin(),
