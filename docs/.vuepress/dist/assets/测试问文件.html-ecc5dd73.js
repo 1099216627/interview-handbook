@@ -1,0 +1,1 @@
+import{_ as e,p as _,q as t,R as s}from"./framework-11e2b124.js";const c={},o=s("p",null,"123123131231dddsad",-1),n=[o];function a(r,d){return _(),t("div",null,n)}const f=e(c,[["render",a],["__file","测试问文件.html.vue"]]);export{f as default};

@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs",
-    "deploy": "vuepress build docs && echo '<meta http-equiv=\"refresh\" content=\"0;url=https://github.com/1099216627/interview-handbook/\">' > docs/.vuepress/dist/index.html && git add . && git commit -m 'deploy' && git push"
+    "docs:build": "vuepress build docs"
   },
   "keywords": [],
   "author": "",
