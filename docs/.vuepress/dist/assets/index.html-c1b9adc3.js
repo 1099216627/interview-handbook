@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as n,R as _}from"./framework-11e2b124.js";const c={},o=_("p",null,"不好意思，这里暂时还没有任何的记录，以后将会补充。",-1),s=[o];function r(a,l){return t(),n("div",null,s)}const i=e(c,[["render",r],["__file","index.html.vue"]]);export{i as default};
