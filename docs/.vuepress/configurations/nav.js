@@ -1,7 +1,7 @@
 export default [
   {
     text: 'vue',
-    link: '/vue/',
+    link: '/notes/vue/',
   },
   {
     text: 'react',

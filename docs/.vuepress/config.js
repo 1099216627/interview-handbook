@@ -3,6 +3,7 @@ import { defaultTheme } from '@vuepress/theme-default'
 import { backToTopPlugin } from '@vuepress/plugin-back-to-top'
 import { docsearchPlugin } from '@vuepress/plugin-docsearch'
 import nav from './configurations/nav.js'
+import sidebar from './configurations/sidebar.js'
 
 export default defineUserConfig({
   lang: 'zh-CN',
@@ -26,6 +27,9 @@ export default defineUserConfig({
     docsBranch: 'main',
     docsDir: 'docs',
     editLinkPattern: ':repo/edit/:branch/:path',
+    smoothScroll: true,//页面滚动
+    sidebar: sidebar,
+    sidebarDepth:2,
   }),
   plugins: [
     backToTopPlugin(),

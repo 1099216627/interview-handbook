@@ -4,7 +4,7 @@ navbar: true
 heroImage: 
 actions:
   - text: 快速上手 →
-    link: /目录/目录.html
+    link: /notes/
     type: primary
 features:
   - title: 组件示例

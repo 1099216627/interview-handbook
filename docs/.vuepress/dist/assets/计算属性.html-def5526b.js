@@ -1,0 +1,1 @@
+import{_ as e,p as _,q as t,R as c}from"./framework-11e2b124.js";const o={},s=c("p",null,"我是计算属性",-1),n=[s];function r(a,l){return _(),t("div",null,n)}const f=e(o,[["render",r],["__file","计算属性.html.vue"]]);export{f as default};
