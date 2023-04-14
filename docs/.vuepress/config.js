@@ -16,6 +16,16 @@ export default defineUserConfig({
       lang: 'zh-CN',
     },
   },
+   // 修改静态资源路径
+  chainWebpack: config => {
+    config.module
+      .rule('images')
+      .use('url-loader')
+      .tap(options => {
+        options.fallback.options.name = 'assets/[name].[hash:8].[ext]'
+        return options
+      })
+  },
   theme: defaultTheme({
     navbar: nav,
     logo: '/images/logo.png',
