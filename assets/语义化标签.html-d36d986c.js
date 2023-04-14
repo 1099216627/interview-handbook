@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-45428d75","path":"/notes/html5/%E8%AF%AD%E4%B9%89%E5%8C%96%E6%A0%87%E7%AD%BE.html","title":"什么是语义化标签","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"notes/html5/语义化标签.md"}');export{t as data};

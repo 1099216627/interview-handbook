@@ -1,1 +1,0 @@
-import{_ as o,p as e,q as s,R as t}from"./framework-11e2b124.js";const _={},c=t("p",null,"woshohooks",-1),n=[c];function r(a,l){return e(),s("div",null,n)}const d=o(_,[["render",r],["__file","hooks.html.vue"]]);export{d as default};
