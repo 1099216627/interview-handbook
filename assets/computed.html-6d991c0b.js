@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-60e5963c","path":"/notes/vue/computed.html","title":"Vue.js计算属性","lang":"zh-CN","frontmatter":{"title":"Vue.js计算属性"},"headers":[{"level":2,"title":"简介","slug":"简介","link":"#简介","children":[]}],"git":{},"filePathRelative":"notes/vue/computed.md"}');export{e as data};
