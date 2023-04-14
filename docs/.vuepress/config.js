@@ -6,7 +6,7 @@ import nav from './configurations/nav.js'
 import sidebar from './configurations/sidebar.js'
 
 export default defineUserConfig({
-  base:"/interview-handbook/",
+  base:"/docs/",
   lang: 'zh-CN',
   title: '你好， VuePress ！',
   description: '这是我的第一个 VuePress 站点',
