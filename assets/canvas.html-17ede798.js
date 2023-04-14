@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-55203216","path":"/notes/html5/canvas.html","title":"什么是Canvas","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"notes/html5/canvas.md"}');export{t as data};

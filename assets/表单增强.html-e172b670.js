@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-ec133e38","path":"/notes/html5/%E8%A1%A8%E5%8D%95%E5%A2%9E%E5%BC%BA.html","title":"HTML5表单增强","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"notes/html5/表单增强.md"}');export{t as data};
